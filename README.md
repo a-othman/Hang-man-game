@@ -15,10 +15,10 @@ hangman(word)
 
 You can also play by prompting the computer to choose a random word from the file "words" as follows:
 
-'''python
+```python
 {
 secretWord = chooseWord(wordlist).lower()
 hangman(secretWord)
 
 }
-'''
+```
