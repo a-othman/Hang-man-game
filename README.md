@@ -19,5 +19,6 @@ You can also play by prompting the computer to choose a random word from the fil
 {
 secretWord = chooseWord(wordlist).lower()
 hangman(secretWord)
+
 }
 '''
