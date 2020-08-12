@@ -1,6 +1,7 @@
 # Hang man game
 
-This is a text based of hang man game.
+This is a text based of hang man game. For more info about the game check:
+[https://en.wikipedia.org/wiki/Hangman_(game)]
 
 ## Instructions
 
