@@ -3,18 +3,17 @@
 This is a text based of hang man game. For more info about the game check:
 [https://en.wikipedia.org/wiki/Hangman_(game)]
 
-## Instructions
+# Instructions
 
-You can play the game aganist the comuter by calling the function hangman and the word of your choice as follows:
+You can play the game aganist the comuter. The computer chooses a random word from "words.txt".
+You can also choose the word yourself as follows:
 
 ```python
 {
-hangman(word)
+hangman("word")
 
 }
 ```
-
-You can also play by prompting the computer to choose a random word from the file "words" as follows:
 
 ```python
 {
@@ -23,3 +22,5 @@ hangman(secretWord)
 
 }
 ```
+# Requirements:
+python 3.x
